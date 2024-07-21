@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example","l":"AppLogger"},{"p":"com.example","l":"DatabaseConnector"},{"p":"com.example","l":"DepartmentKey"},{"p":"com.example","l":"Main"},{"p":"com.example","l":"XmlExporter"},{"p":"com.example","l":"XmlSync"}];updateSearchResults();
